@@ -1,14 +1,6 @@
 # MyClass-Java
 
-A simple Java program.
-
-## How to Run Online
-
-👉 [Run MyClass on Replit](https://replit.com/github/sadia-zannat/MyClass-Java)
-
-[![Run on Replit](https://replit.com/badge/github/sadia-zannat/MyClass-Java)](https://replit.com/github/sadia-zannat/MyClass-Java)
-
-
+A simple Java program
 
 
 ## How to Run Locally
