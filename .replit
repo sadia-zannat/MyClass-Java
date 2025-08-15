@@ -1,0 +1,2 @@
+run = "javac MyClass.java && java MyClass"
+language = "java"
