@@ -1,7 +1,6 @@
-# MyClass-Java
+# Exam and Quiz Management System 
 
-A simple Java program
-
+A simple Java program to manage multiple quizzes and display instant results accurately.
 
 ## How to Run Locally
 1. Download this repository.
